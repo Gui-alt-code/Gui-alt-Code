@@ -2,23 +2,24 @@
 
 ## Sejam bem-vindos ao meu perfil GitHub !!!
 
-Sou uma pessoa recém-formada do ensino médio, para ser mais específico, da Escola Estadual Frei Orlando, atualmente, eu tenho 18 anos. Eu já estou em minha jornada de estudo na área de programação com a Alura há alguns meses, explorando e adquirindo habilidades que podem me ser úteis em minha futura carreira profissional e em projetos colaborativos ! Ademais, paralelamente ao curso, eu sou um falante de nível intermediário da língua inglesa, bem como um futuro aluno de engenharia de computação da Universidade Federal de Ouro Preto (UFOP).
+Sou uma pessoa que busca aprimorar minhas habilidades e sempre aprender mais a cada dia, ademais, eu tenho 18 anos. Eu já estou em minha jornada de estudo na área de programação com a Alura há alguns meses, explorando e adquirindo habilidades que podem me ser úteis em minha futura carreira profissional e em projetos colaborativos ! Ademais, paralelamente ao curso, eu sou um falante de nível intermediário da língua inglesa, bem como um futuro aluno de engenharia de computação do Instituto de Ciências Exatas e Aplicadas - ICEA/UFOP.
 
 
 ## Sobre mim: ⭐
 
-💻 Áreas de interesse: Até o momento Python, HTML e CSS.
+💻 Áreas de interesse: Até o momento Python, C e C++.
 
 🎯 Objetivos: Me tornar um profissional competente e colaborativo na área de programação, constantemente adquirir novos conhecimentos sobre o mundo digital e cursar uma faculdade de ciências da computação.
 
 ## Estou aprendendo: 🔍
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="42" height="42"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"  width="42" height="42"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42"/>
+* Python
+* C
+* C++
           
-❗**Ainda sou um iniciante na área de programação !** Futuramente disponibilizarei muitos projetos.
+## 📫 Contato
 
-## Contatos: 📞
+Se quiser conversar, colaborar ou trocar ideias, sinta-se à vontade para entrar em contato:
 
-<a href="https://instagram.com/guifreitasz7" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+- 📧 **E-mail:** [guilhermesanto458@gmail.com]
+- 📱 **Telefone / WhatsApp:** [+55 (37) 99856-9267] 
