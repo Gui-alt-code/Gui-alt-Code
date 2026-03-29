@@ -4,7 +4,7 @@
 
 Sou uma pessoa que busca sempre aprimorar minhas habilidades e aprender mais a cada dia. Tenho 19 anos e estou em uma jornada de estudos na área da programação, onde venho explorando tecnologias e adquirindo conhecimentos valiosos para minha futura carreira e projetos colaborativos.
 
-Além disso, sou falante de inglês em nível intermediário, bem como aluno do curso de **Engenharia de Computação** no **Instituto de Ciências Exatas e Aplicadas (ICEA) - UFOP**
+Além disso, sou falante de inglês em nível intermediário, bem como aluno do curso de **Engenharia da Computação** no **Instituto de Ciências Exatas e Aplicadas (ICEA) - UFOP**
 
 ---
 
