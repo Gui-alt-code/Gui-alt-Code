@@ -2,24 +2,27 @@
 
 ## Sejam bem-vindos ao meu perfil GitHub !!!
 
-Sou uma pessoa que busca sempre aprimorar minhas habilidades e aprender mais a cada dia. Tenho 18 anos e estou em uma jornada de estudos na área da programação pela plataforma Alura, onde venho explorando tecnologias e adquirindo conhecimentos valiosos para minha futura carreira e projetos colaborativos.
+Sou uma pessoa que busca sempre aprimorar minhas habilidades e aprender mais a cada dia. Tenho 19 anos e estou em uma jornada de estudos na área da programação, onde venho explorando tecnologias e adquirindo conhecimentos valiosos para minha futura carreira e projetos colaborativos.
 
-Além disso, sou falante de inglês em nível intermediário e serei aluno do curso de **Engenharia de Computação** no **Instituto de Ciências Exatas e Aplicadas (ICEA) - UFOP** em breve.
+Além disso, sou falante de inglês em nível intermediário, bem como aluno do curso de **Engenharia de Computação** no **Instituto de Ciências Exatas e Aplicadas (ICEA) - UFOP**
 
 ---
 
 ## ⭐ Sobre mim
 
-- 💻 **Áreas de interesse:** Python, C e C++  
+- 💻 **Áreas de interesse:** Java, C e Python
 - 🎯 **Objetivos:** Me tornar um profissional competente e colaborativo, estar em constante evolução no universo da programação e concluir minha graduação com excelência.
 
 ---
 
 ## 🔍 Estou aprendendo atualmente:
 
-- Python 🐍  
-- C 💻  
-- C++ ⚙️
+-⚙️ Java 
+
+## ❕ Tenho experiência com as seguintes linguagens de programação: 
+
+-🔧 C
+-🔧 Python
 
 ---
 
