@@ -22,13 +22,15 @@ Além disso, sou falante de inglês em nível intermediário, bem como aluno do 
 ## ❕ Tenho experiência com as seguintes linguagens de programação: 
 
 -🔧 C
+
+
 -🔧 Python
 
 ---
 
 ## 📫 Contato
 
-Sinta-se à vontade para entrar em contato para conversas, colaborações ou trocas de conhecimento:
+Sinta-se à vontade para entrar em contato comigo para conversas, colaborações ou trocas de conhecimento:
 
 - 📧 **E-mail:** guilhermesanto458@gmail.com
 
